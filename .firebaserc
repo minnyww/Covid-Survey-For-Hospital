@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "chayen"
+  },
+  "targets": {
+    "chayen": {
+      "hosting": {
+        "pnkcovidst-5": [
+          "pnkcovidst-5"
+        ]
+      }
+    }
+  }
+}
